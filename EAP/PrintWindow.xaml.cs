@@ -255,10 +255,10 @@ namespace EAP
             Configuration.ImageMarginBool = ImageMargin.IsChecked;
         }
 
-        private void mnuDonation_Click(object sender, RoutedEventArgs e)
-        {
-            Process.Start("https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=D34RXXY3MUSFA");
-        }
+        //private void mnuDonation_Click(object sender, RoutedEventArgs e)
+        //{
+        //    Process.Start("https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=D34RXXY3MUSFA");
+        //}
 
 
         private void mnuChangePrint_Click(object sender, RoutedEventArgs e)
