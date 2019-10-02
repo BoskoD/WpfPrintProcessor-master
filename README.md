@@ -13,6 +13,3 @@ To print Microsoft Word and Excel documents, you need to have Microsoft Word and
 * Verify if a file has been successfully sent to the print queue
 * Supports PDF, Microsoft Word, Text Files, Excel and Image formats.
 
-## News 
-
-Version 1.0.0 (2018-11-01)
