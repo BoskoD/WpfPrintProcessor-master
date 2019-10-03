@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace EAP.Engine
+namespace PrinterProccessor.Engine
 {
     public interface IEngine
     {

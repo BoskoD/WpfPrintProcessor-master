@@ -30,12 +30,12 @@ using System.Windows.Input;
 using System.IO;
 using System.Linq;
 using System.Drawing;
-using EAP.Config;
+using PrinterProccessor.Config;
 using log4net;
-using EAP.Engine;
+using PrinterProccessor.Engine;
 using System.Threading.Tasks;
 
-namespace EAP
+namespace PrinterProccessor
 {
     /// <summary>
     /// Logique d'interaction pour MainWindow.xaml

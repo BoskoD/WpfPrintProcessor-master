@@ -1,4 +1,4 @@
-﻿using EAP.Config;
+﻿using PrinterProccessor.Config;
 using log4net;
 using System;
 using System.Collections.Generic;
@@ -13,7 +13,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Threading;
 
-namespace EAP.Engine
+namespace PrinterProccessor.Engine
 {
     public class PrinterEngine : AbstractEngine
     {

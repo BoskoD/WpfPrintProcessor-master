@@ -1,11 +1,11 @@
-﻿using EAP.Helper;
+﻿using PrinterProccessor.Helper;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
 
-namespace EAP.Config
+namespace PrinterProccessor.Config
 {
     public class Configuration
     {

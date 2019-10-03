@@ -3,7 +3,7 @@ using System.Drawing.Printing;
 using System.Windows;
 using System.Windows.Controls;
 
-namespace EAP
+namespace PrinterProccessor
 {
     /// <summary>
     /// Logique d'interaction pour ChangePrinter.xaml

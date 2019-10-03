@@ -22,7 +22,7 @@ using System.Collections.Generic;
 using System.Threading;
 using System.Windows;
 
-namespace EAP
+namespace PrinterProccessor
 {
     /// <summary>
     /// Logique d'interaction pour Stop.xaml

@@ -1,7 +1,7 @@
 ﻿using System.Runtime.InteropServices;
 using System.Text;
 
-namespace EAP
+namespace PrinterProccessor
 {
     public class IniFile
     {
